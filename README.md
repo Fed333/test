@@ -1,1 +1,2 @@
-****** GitHub repository
+# GitHub repository
+## Demo Project
